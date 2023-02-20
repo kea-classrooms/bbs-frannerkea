@@ -4,7 +4,7 @@ mv countries/movies  .
 mv animals/Monkies.txt animals/Monkeys.txt
 echo Monkeys > animals/Monkeys.txt
 mv movies/Germany.txt countries/
-my countries/.apes.txt animals/
+mv countries/.apes.txt animals/
 cd -
 
 #cd movie
